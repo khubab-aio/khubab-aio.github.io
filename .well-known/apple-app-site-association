@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "F85JSW353B.com.aioapp.mom"
+        ],
+        "components": [
+          {
+            "/": "/plaid/redirect/*",
+            "comment": "OAuth redirect."
+          }
+        ]
+      }
+    ]
+  }
+}

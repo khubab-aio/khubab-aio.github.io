@@ -9,6 +9,10 @@
           {
             "/": "/plaid/redirect/*",
             "comment": "OAuth redirect."
+          },
+          {
+            "/": "/LoginWithEmail",
+            "comment": "Navigates to LoginWithEmail screen."
           }
         ]
       }

@@ -1,12 +1,6 @@
 {
   "hosting": {
     "public": "/",
-    "rewrites": [
-      {
-        "source": "/LoginWithEmail",
-        "destination": "/LoginWithEmail.html"
-      }
-    ],
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {

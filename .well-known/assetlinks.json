@@ -13,6 +13,66 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.aioapp.uat",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.staging",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.release",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.qa",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.prod",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.mom",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.aioapp.internal",
       "sha256_cert_fingerprints": [
         "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
@@ -24,6 +84,56 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.aioapp.uat",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.staging",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.qa",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.prod",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.mom",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.release",
       "sha256_cert_fingerprints": [
         "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
       ]

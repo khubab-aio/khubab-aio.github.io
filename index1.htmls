@@ -46,14 +46,14 @@
             <div style="width: 100%; text-align: left">
               <p style="font-size: 14px; color: #888d95">
                 Hi {{ employeeName }} <br /><br />
-                You are invited to join {{ locationName }} location of
-                {{ restaurantName }} restaurant. Activate your account using the
+                You are invited to join {{ locationName }} location of {{
+                restaurantName }} restaurant. Activate your account using the
                 MoM App
               </p>
             </div>
 
             <a
-              href="http://10.0.2.2:5500/LoginWithEmail?apkUrl=https://aio-release-ios-004819043823-us-west-2.s3.us-west-2.amazonaws.com/AndroidAPK/internal/app-internal-release.apk&iosUrl=https://apps.apple.com/pk/app/mom-manage-on-mobile/id6474167930"
+              href="https://mommy-256d5.web.app/LoginWithEmail?apkUrl=https://aio-release-ios-004819043823-us-west-2.s3.us-west-2.amazonaws.com/AndroidAPK/internal/app-internal-release.apk&iosUrl=https://apps.apple.com/pk/app/mom-manage-on-mobile/id6474167930"
               style="text-decoration: none"
             >
               <!-- <a 

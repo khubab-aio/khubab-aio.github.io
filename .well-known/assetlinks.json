@@ -18,5 +18,15 @@
         "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aioapp.uat",
+      "sha256_cert_fingerprints": [
+        "9C:38:EC:90:EC:81:65:BF:C8:46:07:72:A5:BB:18:24:FA:CD:9E:C9:16:CA:56:7A:CF:E0:6C:9D:BF:83:A4:9D"
+      ]
+    }
   }
 ]
